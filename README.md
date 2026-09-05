@@ -19,4 +19,3 @@ This project models an industrial-style robotic manipulator, breaking down the m
 1. Clone this repository or download the project files.
 2. Open SOLIDWORKS and load the main assembly file (`Assem1.sldasm`).
 3. Expand the feature tree to inspect individual part files and review the applied mates.
-4.
